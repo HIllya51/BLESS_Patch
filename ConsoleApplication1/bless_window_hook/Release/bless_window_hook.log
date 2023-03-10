@@ -1,0 +1,13 @@
+﻿  pch.cpp
+  dllmain.cpp
+C:\Users\11737\Documents\GitHub\BLESS_Patch\ConsoleApplication1\bless_window_hook\dllmain.cpp(3): warning C4603: “_CRT_SECURE_NO_WARNINGS”: 未定义宏或在预编译头使用后定义发生改变
+C:\Users\11737\Documents\GitHub\BLESS_Patch\ConsoleApplication1\bless_window_hook\dllmain.cpp(3): message : 将宏添加到预编译头中，而不是在此处定义
+C:\Users\11737\Documents\GitHub\BLESS_Patch\ConsoleApplication1\bless_window_hook\dllmain.cpp(4): message : 使用预编译头
+C:\Users\11737\Documents\GitHub\BLESS_Patch\ConsoleApplication1\bless_window_hook\dllmain.cpp(32,108): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\11737\Documents\GitHub\BLESS_Patch\ConsoleApplication1\bless_window_hook\dllmain.cpp(32,97): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  正在生成代码
+  12 of 12 functions (100.0%) were compiled.
+    6 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  bless_window_hook.vcxproj -> C:\Users\11737\Documents\GitHub\BLESS_Patch\ConsoleApplication1\Release\bless_window_hook.dll
